@@ -1,0 +1,1 @@
+# Pyqt6-Academic-Management-System
